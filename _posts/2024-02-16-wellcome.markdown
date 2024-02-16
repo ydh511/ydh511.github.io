@@ -1,0 +1,14 @@
+---
+layout: post
+title: 
+date: 2024-02-16 15:35:00 +0900
+description: my first post # Add post description (optional)
+img: jerry-hello.gif # Add image post (optional)
+tags: [post] # add tag
+---
+
+# My first post
+
+Hello i'm back-end development student. Wellcome to my Github page and my first post. I'm studing Java, Spring boot, Algoritm and other back-end skills
+
+Have a nice day.
