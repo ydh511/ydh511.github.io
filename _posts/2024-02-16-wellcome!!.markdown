@@ -1,0 +1,12 @@
+---
+layout: post
+title: wellcome!!
+date: 2024-02-16 00:00:00 +0900
+description: wellcome # Add post description (optional)
+img: jerry-hello.gif # Add image post (optional)
+tags: [blog] # add tag
+---
+
+# Wellcome to my page
+Nice to meet you. I am a back-end development student. Have a nice day.
+
